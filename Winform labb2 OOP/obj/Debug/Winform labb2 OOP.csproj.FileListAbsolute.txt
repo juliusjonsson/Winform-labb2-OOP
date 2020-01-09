@@ -1,0 +1,11 @@
+C:\Users\Julius\source\repos\Winform labb2 OOP\Winform labb2 OOP\bin\Debug\Winform labb2 OOP.exe.config
+C:\Users\Julius\source\repos\Winform labb2 OOP\Winform labb2 OOP\bin\Debug\Winform labb2 OOP.exe
+C:\Users\Julius\source\repos\Winform labb2 OOP\Winform labb2 OOP\bin\Debug\Winform labb2 OOP.pdb
+C:\Users\Julius\source\repos\Winform labb2 OOP\Winform labb2 OOP\obj\Debug\Winform labb2 OOP.csprojAssemblyReference.cache
+C:\Users\Julius\source\repos\Winform labb2 OOP\Winform labb2 OOP\obj\Debug\Winform_labb2_OOP.Form1.resources
+C:\Users\Julius\source\repos\Winform labb2 OOP\Winform labb2 OOP\obj\Debug\Winform_labb2_OOP.Properties.Resources.resources
+C:\Users\Julius\source\repos\Winform labb2 OOP\Winform labb2 OOP\obj\Debug\Winform labb2 OOP.csproj.GenerateResource.cache
+C:\Users\Julius\source\repos\Winform labb2 OOP\Winform labb2 OOP\obj\Debug\Winform labb2 OOP.csproj.CoreCompileInputs.cache
+C:\Users\Julius\source\repos\Winform labb2 OOP\Winform labb2 OOP\obj\Debug\Winform labb2 OOP.exe
+C:\Users\Julius\source\repos\Winform labb2 OOP\Winform labb2 OOP\obj\Debug\Winform labb2 OOP.pdb
+C:\Users\Julius\source\repos\Winform labb2 OOP\Winform labb2 OOP\obj\Debug\Winform_labb2_OOP.st_registration_form.resources
